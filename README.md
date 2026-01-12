@@ -1,3 +1,4 @@
 # demo1
-this is my first repository
-auther b
+This is my first Repository
+<br>
+Auther - Bambam
